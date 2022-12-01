@@ -109,6 +109,8 @@ FrUn,FreieUniversitaet,,Berlin,
 HaSc,HannahSchwaer,Axel-Springer-Akademie,Berlin,Schuelerin
 UnMue,UniversitaetMuenster,,Muenster,
 UnPoFa,UniversitatPompeuFabra,,Barcelona,
+
+
 LeSt,LenaSterz,,,LandespolitischeHoerfunkkorrespondentin
 WDR,WestdeutscherRundfunk,,Koeln,
 LaTe,LauraTerberl,,,Videoredakteurin
@@ -122,7 +124,7 @@ TSCE,TSCEintracht,,Dortmund,
 MaFj,Malofiej,,,
 OnJoAw,OnlineJournalismAward,,,
 InBeAw,InformationIsBeautifulAward,,,
-SiWa,SiriWarrlich,,,Videoredakteurin
+SiWa,SiriWarrlich,StuttgarterZeitung,,Videoredakteurin
 UnMan,UniversitaetMannheim,,Mannheim,
 MaUn,MarmaraUniversitaet,,Istanbul,
 UnOx,UniversityOfOxford,,Oxford,
@@ -153,6 +155,7 @@ RHP,RobertHochnerPreis,DossierAT,Wien,
 OBP,OttoBrennerPreis,DossierAT,Wien,
 MeLoe,MedienloewinnenPreis,SueddeutscheZeitung,Muenchen,
 SdZ,SueddeutscheZeitung,,Muenchen,
+
 JaGo,JacquelineGoebel,Wirtschaftswoche,Berlin,Journalistin
 FVP,FriedrichVogelPreis,WirtschaftsWoche,Berlin,
 HQM,HerbertQuandtMedienpreis,WirtschaftsWoche,Berlin,
@@ -201,7 +204,7 @@ GoBo,GoldenerBlogger,BayrischerRundfunk,Muenchen,
 ASP,AxelSpringerPreis,BayrischerRundfunk,Muenchen,
 SHP,SmartHeroPreis,BayrischerRundfunk,Muenchen,
 PrIt,PrixItalia,BayrischerRundfunk,Muenchen,
-IsRu,IsabelRuf,BadischeNeusteNachrichten,Karlsruhe,Redakteurin,
+IsRu,IsabelRuf,meinKA,Karlsruhe,Redakteurin,
 TBMe,TVBWMedienproduktion,,Pforzheim,,
 HKTW,HochschuleKarlsruhefürTechnikundWirtschaft,,,
 LoJo,LokalJournalistenpreis,PforzheimerZeitung,Prozheim,
@@ -219,6 +222,7 @@ VoMiThTr,VoMinhThuTran,WestdeutscherRundfunk,Koeln,FreieJournalistin
 LMU,LudwigMaximiliansUniversitaet,,Muenchen, 
 DJS,DeutscheJournalistenschule,,Muenchen,
 UWP,UlrichWickertPreis,DeutschlandfunkNova,Koeln,
+
 MiTr,MirijamTrunk,RTLDeutschland,Koeln,ChiefSustainabilityandDiversityOfficer,
 DJS,DeutscheJournalistenschule,,Muenchen,
 LMU,LudwigMaximiliansUniversitaet,,Muenchen,
