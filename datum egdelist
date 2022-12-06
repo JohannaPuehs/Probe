@@ -569,7 +569,90 @@ SaSch,GrUJa,2016
 LeaSt,WiWo,
 VaVu,DiZe,2016
 VaVu,DPA,2015
-
+LaBa,u30,2022
+LaBa,HuUnBe,
+LaBa,DeSp,2016
+LaBa,FrJo,2015
+NaBa,WDR,2019
+NaBa,FrJo,2020
+NaBa,DeFu,2018
+NaBa,DeTa,2019
+DaBi,FrJo,
+DaBi,FAZ,
+DaBi,SZ,
+DaBi,RhNe,2022
+DaBi,SueKur,2020
+HeBi,DeTa,2022
+HeBi,FrJo,
+HeBi,DPA,2017
+PiSi,TAZ,
+PiSi,Corr,2022
+PiSi,FrJo,
+PiSi,DiZe,
+MiLe,Corr,2022
+MiCa,DeTa,2022
+MiCa,RBB,2021
+MiCa,BeZe,2020
+MiCa,MaMo,2018
+MiDa,WDR,2020
+MaHa,WDR,2017
+MaHa,Funk,2018
+MaHa,FrJo,
+AyIb,DeWe,2012
+JuKl,ZDF,2019
+SoSc,DeSp,2020
+SoSc,DiZe,2018
+SoSc,FrJo,2011
+LeSo,FrJo,2019
+LeSo,yko,2019
+LeSo,TAZ,2020
+LuTh,DiZe,2022
+LuTh,SZ,2020
+LuTh,FrJo,2017
+LuTh,ntv,2015
+KaWe,DeWe,2020
+KaWe,FrJo,2020
+KaWe,ARTE,2020
+KaWe,Corr,2020
+KaWe,HeRu,2019
+KaWe,DPA,2016
+OlSa,FrJo,2021
+OlSa,ImMed,2019
+OlSa,GrUJa,2018
+AnBi,NePo,
+KaBr,SZ,
+KaBr,Stern,2021
+KaBr,FuMeGr,2020
+KaBr,FrJo,
+SuHo,WeN,2015
+SuHo,FrJo,
+EvSc,Funk,2016
+EvSc,SWR,2012
+EvSc,ZeUn,2010
+AnGr,DeSp,2016
+AnGr,FrJo,
+FrKe,FrJo,
+FrKe,SZ,2009
+MaRe,SWR,2021
+MaRe,SZ,2015
+MaRe,DiZe,2016
+MaRe,FrJo,
+ViRe,DeRa,2014
+ViRe,ARD,2015
+ViRe,FrJo,
+ViRe,ZDF,2009
+NiSa,AxSp,2021
+NiSa,DPA,2019
+NiSa,WeN,2014
+AlSc,DiZe,2013
+LiTi,FrJo,2007
+NoJa,FrJo,
+NoJa,WiWo,2012
+NoJa,WDR,
+LiHe,DiZe,2018
+LiHe,WiWo,2015
+LiHe,FrJo,
+LiHe,HaBl,
 
 PPG,PrimeProductions,,Koeln,,employment
 DeHaZe,DeutschenHandwerksZeitung,,BadWörishofen,,employment
@@ -586,6 +669,20 @@ RTL,RTLDeutschland,,Koeln,,employment
 RosMag,RosaMag,,Berlin,,employment
 LaTh,LaraThiede,jetztde,Muenchen,Redaktionsleiterin,person
 
+SueKur,Suedkurier,,Konstanz,,employment,n
+BeZe,BerlinerZeitung,,Berlin,,employment,n
+yko,YKollektiv,sendefähigGmbH,,employment,j
+ntv,NTvDerNachrichtensender,,Koeln,employment,n
+ImMed,ImpulseMedien,,Hamburg,,employment,n
+Stern,Stern,,Hamburg,,employment,n
+EvSc,EvaCarolinSchulz,Funk,Berlin,,person,
+ZeUn,ZeppelinUniversitaet,,Friedrichshafen,,education,
+HaBl,Handelsblatt,,Duesseldorf,employment,n
+CarSc,u30,nominierung,2015 -> löschen
+CarSc,MeHoHa,education,2006 -> löschen
+CaSc,CarolinSchulz,Onmeda,Mainz,Chefredakteurin -> löschen
+MeHoHa,MedizinischeHochschuleHannover,,Hannover, -> löschen
+Onme,Onmeda,gofemininGmbH,,-> löschen
 
 2021:
 IsBe,u30,nomination,2021
@@ -774,8 +871,8 @@ MaWu,UnMai,education,
 MaWu,3SAT,employment,
 MaWu,ZDF,employment,
 
-ReBa,u30,nominierung,2022
-ReBa,HuUnBe,education,
+LaBa,u30,nominierung,2022
+LaBa,HuUnBe,education,
 NaBa,u30,nominierung,2022
 NaBa,UnLe,education,2016
 NaBa,UnNaCu,education,2018
